@@ -1,5 +1,9 @@
 # Customer Retention Analysis (Telco Churn)
 
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## Overview
 This project analyzes **customer churn** for a telecom company to identify factors driving churn and quantify **revenue at risk**. Using the **Telco Customer Churn dataset**, we performed data cleaning, exploratory data analysis (EDA), and built a **simple, explainable logistic regression model**.
