@@ -44,11 +44,11 @@ Data source: [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/tel
 - **Monthly Revenue at Risk:** `$7,874.00` (sum of monthly charges for churned customers).  
 
 ### Example Plots
-#### Churn Distribution
-![Churn Distribution](plots/Churn_distribution.png)
+### Churn Distribution
+![Churn Distribution](Churn_distribution.png)
 
-#### Churn by Contract Type
-![Churn by Contract](plots/Churn_by_contract.png)
+### Churn by Contract Type
+![Churn by Contract](Churn_by_contract.png)
 
 
 ---
