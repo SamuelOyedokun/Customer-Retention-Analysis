@@ -101,7 +101,7 @@ Data source: [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/tel
 ---
 
 ## Contact
-Connect with me on [LinkedIn](https://www.linkedin.com/in/samuel_oyedokun/)  
+Connect with me on [LinkedIn][(http://www.linkedin.com/in/samuel-oyedokun-b41895142)]
 
 ---
 
